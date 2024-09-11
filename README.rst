@@ -1,3 +1,21 @@
+ACTIVIDAD 3 ADAPTAR EL MODELO PREDICTIVO PARA API:
+
+Crea dos entornos usando virtualenv:
+
+uno que se llame “analisis”, instala el entorno de conda
+
+uno que se llame “api” e instala el marco de trabajo de Flask (SE CREA UN ARCHIVO REQUIREMENTS API)
+
+
+En el entorno de trabajo “api” instala las siguientes herramientas de Flask:
+
+Flask RESTful
+
+Swagger
+
+
+
+
 ======================================= 
 IEXE Tec - Maestría en Ciencia de Datos 
 =======================================
